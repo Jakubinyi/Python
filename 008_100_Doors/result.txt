@@ -1,0 +1,11 @@
+Door: 1 2 3 4 5 6 7 8 9 10
+1st   o o o o o o o o o o 
+2nd   o c o c o c o c o c 
+3rd   o c c c o o o c c c 
+4th   o c c o o o o o c c 
+5th   o c c o c o o o c o
+6th   o c c o c c o o c o
+7th   o c c o c c c o c o
+8th   o c c o c c c c c o
+9th   o c c o c c c c o o 
+10th  o c c o c c c c o c
