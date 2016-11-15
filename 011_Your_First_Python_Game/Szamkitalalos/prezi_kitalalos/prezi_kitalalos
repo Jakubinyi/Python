@@ -1,0 +1,39 @@
+zene berak alá
+
+1, FD9
+
+2,Game concept
+
+cél: alap játék, de működjön
+
+-számkitalálós játék valósítottunk meg
+-a gép random gondol egy számra 1-100 között
+-8 lehetőség van kitalálni a számot
+
+
+3, Implementations, Protectors
+
+Used elements:
+-random
+-input
+-while loop
+-if, elif, else
+-operators (==, +, >, ...)
+-print
+-function(def )  -egyszerűsítés kedvéért
+
+
+
+Protectors:
+-isdigit
+-exit
+
+
+
+4, Conclusion
+-kevés idő, csonka hét
+-sok fejlődés
+-célbaértünk
+-de örömet okozott
+
+

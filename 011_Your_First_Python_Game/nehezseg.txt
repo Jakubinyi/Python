@@ -1,0 +1,5 @@
+nehezseg nő
+élet
+plusz minusz élet
+név bekér
+kiirat egy listába

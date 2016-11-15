@@ -1,0 +1,31 @@
+-debugging, hogy minden esetben új számot generáljon
+-check
+-ablak készítése (GUI)
+-kirajzol a végére egy smile-t (happy, sad), akár színeset
+-élet (pl. 3db), ha egy szintet nem teljesítesz, akkor levon egyet (élet kirajzol?)
+-szintek, egyre kevesebből kitalálni
+-zene
+
+
+Current features and problems:
+1.Game name: Guess a number between 1 and 100.
+2.Game description: The user have to guess a random number between 1 and 100, user have only 8 tips to win the game. If user misses all of the tips, user loses the game. The program asks user about a new game or exit and contains protectors in case of incorrect instructions. Furthermore the game helps user if the number is too low or high.
+3.Bugs and problems: If the user win the game, and it restart, then the program does not generate a new number.
+  
+
+Further development options / enhancements:
+1.step: is to debug the programcode (generate random new number if the game restart)
+2.step: is to add levels(8), after every guesed number user gets a higher level, which contains less tips.
+3.step: is to add lives(3), if user can not perform a level then he loses 1 live.
+4.step: is to add sound, background music and succeed effects.
+5.step: is to add game window (Tkinter), whith it the game will be more 
+6.step: is to add end smile, if user wins the game will be happy else sad.
+
+
+
+Pair Programming:
+-Alexandra Illner
+-Máté Jakubinyi
+
+
+
